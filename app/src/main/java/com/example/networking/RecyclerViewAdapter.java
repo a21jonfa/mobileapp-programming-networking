@@ -1,5 +1,4 @@
-package com.danieloskarsson.recyclerviewapp;
-
+package com.example.networking;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
